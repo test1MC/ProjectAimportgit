@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  LastImport="2017-09-08T14:15:18.1246673-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/sgarcia/Desktop/New Features/Project B import git/Project B import git.flprj"
+      AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New Features/Project B import git/Project B import git.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../Project B import git/Content/Topic 2.htm"
+      AbsoluteSource="file:///C:/Users/sgarcia/Desktop/New Features/Project B import git/Content/Topic 2.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Topic 2.htm"
+      TimeStamp="9/8/2017 2:13:50 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>
